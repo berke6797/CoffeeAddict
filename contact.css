@@ -1,0 +1,70 @@
+body{
+    height: 100%;
+    width: 100%;
+}
+.mainheader{
+    width: inherit;
+    border: black;
+    text-align: center;
+}
+.mainlogo{
+    align-items: center;
+}
+.anabaslik{
+    text-align: center;
+    font-weight:bold;
+    letter-spacing: 1px;
+}
+/* ------------------------------------------------------------- */
+
+/* home,about,numbers,contact yazıları ayarlandı*/
+ul a{
+    padding-right: 30px;
+    font-weight: 200;
+    font-size:x-large;
+    letter-spacing: 4px;
+    font:bolder;
+    color: #795d46;
+    text-decoration: none;
+}
+/* home,about,numbers,contact animasyonları ayarlandı */
+a:hover{
+    color: #795d46;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+/* ------------------------------------------------------------- */
+#logoarkasifoto{
+    opacity: 0.5;
+    width: 100%;
+}
+/* featured products üstündeki resim yapıldı  */
+
+/* ------------------------------------------------------------- */
+
+form{    
+    margin-top: 15px;
+    margin:auto;
+    text-align: center;
+}
+/* ------------------------------------------------------------- */
+
+/* back to top linki düzeltildi */
+
+footer{
+    text-align: center;
+    clear: both;
+    position: relative;
+    height: fit-content;
+    margin-bottom: 0px;
+    position: relative;
+    background-color: lightgray;
+}
+
+/* back to top linki düzeltildi */
+
+.backtotop :link , .backtotop:visited{
+    color: black;
+    font-weight: bold;
+}
+
